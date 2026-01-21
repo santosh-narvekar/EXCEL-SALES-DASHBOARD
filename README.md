@@ -1,13 +1,13 @@
 # SALES-DASHBOARD
 This KPI-Based Regional-Revenue dashboard built in excel helps the coo  to easily track the overall state per every region.
 
-# Project Goal: 
+# Project Need & Goal: 
 The COO Had a monthly call with the Regional Sales Manager, but they were presenting their data in a different way 
 and it was impossible to follow. So, we build a dashboard that helps with filtering by region, track monthly revenue
 trends and help them compare performance year-over-year and also helping them compare performance across stores for
 every region and identifying which specific products drove the biggest gains and losses in that region
 
-# Screenshots:
+# Dashboard Screenshot:
 ![Regional Revenue Dashboard](https://drive.google.com/uc?export=view&id=1Sw1EPC_2yHAf4OeRBabSGjvzTCVCOIFY)
 
 # Key Features: 
