@@ -11,17 +11,17 @@ every region and identifying which specific products drove the biggest gains and
 ![Regional Revenue Dashboard](https://drive.google.com/uc?export=view&id=1Sw1EPC_2yHAf4OeRBabSGjvzTCVCOIFY)
 
 # Key Features: 
-Formula-based Dashboard
-Advanced Chart Formatting
-StoryTelling With Data
-Compatible with growing source data
-Previous Period Calculation
-Automatic Sorting
-Top N formulas
-Conditional Formatting
-Data Visualization With Charts
-KPIS With More Context, Not Just Numbers
-Effective Choice of Colors
+1) Formula-based Dashboard
+2) Advanced Chart Formatting
+3) StoryTelling With Data
+4) Compatible with growing source data
+5) Previous Period Calculation
+6) Automatic Sorting
+7) Top N formulas
+8) Conditional Formatting
+9) Data Visualization With Charts
+10) KPIS With More Context, Not Just Numbers
+11) Effective Choice of Colors
 
 # How to Use:
 1) download the file in excel.
