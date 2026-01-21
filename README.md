@@ -1,5 +1,5 @@
 # SALES-DASHBOARD
-This Regional-Revenue dashboard built in excel helps the coo  to easily track the overall state per every region.
+This KPI-Based Regional-Revenue dashboard built in excel helps the coo  to easily track the overall state per every region.
 
 # Project Title & Goal: 
 The COO Had a monthly call with the Regional Sales Manager, but they were presenting their data in a different way 
